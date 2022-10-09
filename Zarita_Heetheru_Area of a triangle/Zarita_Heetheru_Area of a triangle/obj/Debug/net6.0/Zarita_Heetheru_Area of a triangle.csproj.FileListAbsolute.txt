@@ -1,0 +1,15 @@
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\bin\Debug\net6.0\Zarita_Heetheru_Area of a triangle.exe
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\bin\Debug\net6.0\Zarita_Heetheru_Area of a triangle.deps.json
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\bin\Debug\net6.0\Zarita_Heetheru_Area of a triangle.runtimeconfig.json
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\bin\Debug\net6.0\Zarita_Heetheru_Area of a triangle.dll
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\bin\Debug\net6.0\Zarita_Heetheru_Area of a triangle.pdb
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.csproj.AssemblyReference.cache
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.AssemblyInfoInputs.cache
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.AssemblyInfo.cs
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.csproj.CoreCompileInputs.cache
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.dll
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\refint\Zarita_Heetheru_Area of a triangle.dll
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.pdb
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\Zarita_Heetheru_Area of a triangle.genruntimeconfig.cache
+C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Zarita_Heetheru_Area of a triangle\obj\Debug\net6.0\ref\Zarita_Heetheru_Area of a triangle.dll

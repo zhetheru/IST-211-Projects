@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Zarita_Heetheru_Area_of_a_triangle</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\zheth\OneDrive\Desktop\IST 211 PROJECT\Zarita_Heetheru_Area of a triangle\Area of a triangle _ Zarita Hetheru.cs" Link="Area of a triangle _ Zarita Hetheru.cs" />
+  </ItemGroup>
+
+</Project>
